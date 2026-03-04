@@ -3,8 +3,8 @@ public class Test {
   static void add(){
 
     int a=60;
-    int b=10;
-    int result = a-b;
+    int b=40;
+    int result = a+b;
     System.out.println("The sum is " +result);
     
   }
