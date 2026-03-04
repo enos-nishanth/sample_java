@@ -5,7 +5,7 @@ public class Test {
     int a=30;
     int b=70;
     int result = b-a;
-    System.out.println("The difference is " +result);
+    System.out.println("The difference: " +result);
     
   }
   public static void main(String[] args)
